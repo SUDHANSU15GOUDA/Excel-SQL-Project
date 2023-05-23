@@ -1,1 +1,6 @@
-# Excel-SQL-Project
+# Excel SQL Project
+##Hi there, Sudhansu here...
+
+I will be saving my Excel and SQL projects here.
+
+Thank you for reading till the end....
