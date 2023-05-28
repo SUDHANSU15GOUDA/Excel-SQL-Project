@@ -6,7 +6,7 @@
 
 
 
-##Hi there, Sudhansu here...
+Hi there, Sudhansu here...
 
 I will be saving my Excel and SQL projects here.
 
